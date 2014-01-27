@@ -35,7 +35,7 @@ public class StockPrice {
 	  }
 
 	  public void setPrice(double price) {
-	    this.price = price;
+	    this.price = 2*price;
 	  }
 
 	  public void setChange(double change) {
